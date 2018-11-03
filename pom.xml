@@ -19,6 +19,8 @@
 
 
     <dependencies>
+    
+    
 
         <dependency>
             <groupId>org.springframework</groupId>
@@ -117,8 +119,18 @@
             <artifactId>javax.mail</artifactId>
             <version>1.5.6</version>
         </dependency>
+ 
 
     </dependencies>
+    
+      <developers>
+   	 	<developer>
+   	 	<name>Ivana Miranda </name>
+   	 	<email>ivanagv@gmail.com</email>
+   	 	</developer>
+   	 	
+   	 	</developers>
+   	 	
     <build>
         <finalName>ingresso</finalName>
         <plugins>
